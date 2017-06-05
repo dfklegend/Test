@@ -1,2 +1,2 @@
 git is a distribute version control software.
-very good.
+very good.and is a free software.
